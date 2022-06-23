@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Galaxy S22 Ultra",
+    "price": "$199.99",
+    "image": "https://m.media-amazon.com/images/I/71TR4hXkNaL.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In ex, sapiente doloremque fugit, nostrum numquam hic vitae consectetur cum at amet! Qui dolor expedita autem, nobis a placeat vitae cumque."
+  },
+  {
+    "name": "Galaxy S22",
+    "price": "$199.99",
+    "image": "https://www.notebookcheck.net/typo3temp/_processed_/f/f/csm_4_to_3_Teaser_Samsung_Galaxy_S22_c6bd9e8814.jpg",
+    "description": "Sample description"
+  },
+  {
+    "name": "Galaxy S22+",
+    "price": "$199.99",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494449_sd.jpg",
+    "description": "Sample description"
+  },
+  {
+    "name": "Galaxy S22 Ultra",
+    "price": "$199.99",
+    "image": "https://m.media-amazon.com/images/I/71TR4hXkNaL.jpg",
+    "description": "Sample description"
+  },
+  {
+    "name": "Galaxy S22",
+    "price": "$199.99",
+    "image": "https://www.notebookcheck.net/typo3temp/_processed_/f/f/csm_4_to_3_Teaser_Samsung_Galaxy_S22_c6bd9e8814.jpg",
+    "description": "Sample description"
+  },
+  {
+    "name": "Galaxy S22+",
+    "price": "$199.99",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494449_sd.jpg",
+    "description": "Sample description"
+  }
+]
