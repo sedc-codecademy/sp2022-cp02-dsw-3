@@ -3,36 +3,320 @@
     "name": "Galaxy S22 Ultra",
     "price": "$199.99",
     "image": "https://m.media-amazon.com/images/I/71TR4hXkNaL.jpg",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In ex, sapiente doloremque fugit, nostrum numquam hic vitae consectetur cum at amet! Qui dolor expedita autem, nobis a placeat vitae cumque."
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In ex, sapiente doloremque fugit, nostrum numquam hic vitae consectetur cum at amet! Qui dolor expedita autem, nobis a placeat vitae cumque.",
+    "category": "Electronics",
+    "subcategory": "Cell Phones & Accessories"
   },
   {
     "name": "Galaxy S22",
     "price": "$199.99",
-    "image": "https://www.notebookcheck.net/typo3temp/_processed_/f/f/csm_4_to_3_Teaser_Samsung_Galaxy_S22_c6bd9e8814.jpg",
-    "description": "Sample description"
+    "image": "htps://www.notebookcheck.net/typo3temp/_processed_/f/f/csm_4_to_3_Teaser_Samsung_Galaxy_S22_c6bd9e8814.jpg",
+    "description": "Sample description",
+    "category": "Electronics",
+    "subcategory": "Cell Phones & Accessories"
   },
   {
     "name": "Galaxy S22+",
     "price": "$199.99",
     "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494449_sd.jpg",
-    "description": "Sample description"
+    "description": "Sample description",
+    "category": "Electronics",
+    "subcategory": "Cell Phones & Accessories"
   },
   {
     "name": "Galaxy S22 Ultra",
     "price": "$199.99",
     "image": "https://m.media-amazon.com/images/I/71TR4hXkNaL.jpg",
-    "description": "Sample description"
+    "description": "Sample description",
+    "category": "Electronics",
+    "subcategory": "Cell Phones & Accessories"
   },
   {
     "name": "Galaxy S22",
     "price": "$199.99",
     "image": "https://www.notebookcheck.net/typo3temp/_processed_/f/f/csm_4_to_3_Teaser_Samsung_Galaxy_S22_c6bd9e8814.jpg",
-    "description": "Sample description"
+    "description": "Sample description",
+    "category": "Electronics",
+    "subcategory": "Cell Phones & Accessories"
   },
   {
     "name": "Galaxy S22+",
     "price": "$199.99",
     "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494449_sd.jpg",
-    "description": "Sample description"
-  }
+    "description": "Sample description",
+    "category": "Electronics",
+    "subcategory": "Cell Phones & Accessories"
+  },
+  {
+    "name": "JBL Tune 510BT",
+    "price": "$49.5",
+    "image": "https://m.media-amazon.com/images/I/61yjoRgptdL._AC_SY450_.jpg",
+    "description": "JBL Tune 510BT: Wireless On-Ear Headphones with Purebass Sound - Black    ",
+    "category": "Electronics",
+    "subcategory": "Headphones"
+  },
+  {
+    "name": "Sony ZX Series ",
+    "price": "$12",
+    "image": "https://m.media-amazon.com/images/I/416mZ6bkTyL._AC_SX679_.jpg",
+    "description": "Sony ZX Series Wired On-Ear Headphones, White MDR-ZX110",
+    "category": "Electronics",
+    "subcategory": "Headphones"
+  },
+  {
+    "name": "Sony Wireless Headphones WH-CH510",
+    "price": "$38",
+    "image": "https://m.media-amazon.com/images/I/81di9mF9OVL._AC_SX450_.jpg",
+    "description": "Sony Wireless Headphones WH-CH510: Wireless Bluetooth On-Ear Headset with Mic for Phone-Call, Black    ",
+    "category": "Electronics",
+    "subcategory": "Headphones"
+  },
+  {
+    "name": "PS 4 Slim Seyted Upgraded 2TB",
+    "price": "$749",
+    "image": "https://m.media-amazon.com/images/I/71MY0GUIzPL._SX466_.jpg",
+    "description": "PS 4 Slim Seyted Upgraded 2TB Console with Wireless Controller, Jet Black",
+    "category": "Electronics",
+    "subcategory": "Video Game Consoles"
+  },
+  {
+    "name": "PlayStation 5 Console",
+    "price": "$499.99",
+    "image": "https://m.media-amazon.com/images/I/619BkvKW35L._SX522_.jpg",
+    "description": "PlayStation 5 Console",
+    "category": "Electronics",
+    "subcategory": "Video Game Consoles"
+  },
+  {
+    "name": "Sony PlayStation 2 Console",
+    "price": "$200.00",
+    "image": "https://m.media-amazon.com/images/I/61pETE6v4vL._SX522_.jpg",
+    "description": "Sony PlayStation 2 Console - Black (Renewed)    ",
+    "category": "Electronics",
+    "subcategory": "Video Game Consoles"
+  },
+  {
+    "name": "Security Camera Wireless Outdoor REOLINK",
+    "price": "$135.99",
+    "image": "https://m.media-amazon.com/images/I/51Lkaq4gAIL._AC_SY450_.jpg",
+    "description": "Security Camera Wireless Outdoor, Solar Powered WiFi System, Pan Tilt, 2K Night Vision, 2-Way Talk, Works with Alexa/ Google Assistant/ Cloud for Video Surveillance, REOLINK Argus PT w/ Solar Panel    ",
+    "category": "Electronics",
+    "subcategory": "Security & Surveillance"
+  },
+  {
+    "name": "ANRAN Security Cameras Wireless Outdoor with Pan Rotation 180 degrees",
+    "price": "$60.99",
+    "image": "https://m.media-amazon.com/images/I/61wqyz5HV4L._AC_SX466_.jpg",
+    "description": "Solar Security Camera Outdoor with Solar Panel, PIR Human Detection, 2-Way Talk, Night Vision, 1080P, IP65 Waterproof, S2 White",
+    "category": "Electronics",
+    "subcategory": "Security & Surveillance"
+  },
+  {
+    "name": "Sovmiku Color Night Vision",
+    "price": "$289.89",
+    "image": "https://m.media-amazon.com/images/I/71cNGMUh9dL._AC_SX679_.jpg",
+    "description": "WiFi Security Camera with MonitorSpotlight,10'' Monitor 2K 2 Way Audio All in One Surveillance Camera System Outdoor,Sovmiku Color Night Vision,Face/Motion Detect,3MP Camera,8Ch Expandable NVR,1T HDD",
+    "category": "Electronics",
+    "subcategory": "Security & Surveillance"
+  },
+  {
+    "name": "5 Multi USB Car Charger",
+    "price": "$14.97",
+    "image": "https://m.media-amazon.com/images/I/71QCMSf+4FL._AC_SX679_.jpg",
+    "description": "5 Multi USB Car Charger, Car Charger Adapter, USB Car Charger for Multiple Devices, 12V USB Charger Multi Port, Car Charger Cigarette Lighter Adapter USB Charger with 5FT Cable for Back Seat Charging    ",
+    "category": "Electronics",
+    "subcategory": "Car & Vehicle Electronics"
+  },
+  {
+    "name": "Car DVD Player with Headrest Mount",
+    "price": "$128.99",
+    "image": "https://m.media-amazon.com/images/I/71xjpqYJENL._AC_SY450_.jpg",
+    "description": "Car DVD Player with Headrest Mount,Arafuna 10.5 Headrest DVD Player for car with HDMI Input, Portable DVD Player for Car Support 1080P HD Video, USB/SD,Regions Free, Last Memory",
+    "category": "Electronics",
+    "subcategory": "Car & Vehicle Electronics"
+  },
+  {
+    "name": "Garmin Dash Cam ",
+    "price": "$239.99",
+    "image": "https://m.media-amazon.com/images/I/71QdHGHR+HS._AC_SX679_.jpg",
+    "description": "Garmin Dash Cam 67W, 1440p and extra-wide 180-degree FOV, Monitor Your Vehicle While Away w/ New Connected Features, Voice Control, Compact and Discreet, Includes Memory Card",
+    "category": "Electronics",
+    "subcategory": "Car & Vehicle Electronics"
+  },
+  {
+    "name": "TORRAS Car Phone Holder Mount",
+    "price": "$31.99",
+    "image": "https://m.media-amazon.com/images/I/81Le0dXSfxL._AC_SX679_.jpg",
+    "description": "TORRAS Car Phone Holder Mount [Streamlined Design - Give You Real Safety] Cell Phone Holder for Car Dashboard Air Vent Windshield Universal 360 Fits iPhone 13 12 11 Pro Max Samsung Galaxy S21 Note 20    ",
+    "category": "Electronics",
+    "subcategory": "Car & Vehicle Electronics"
+  },
+  {
+    "name": "Laptop Cooling Pad",
+    "price": "$34.96",
+    "image": "https://m.media-amazon.com/images/I/71OZt74u53L._AC_SY450_.jpg",
+    "description": "2022 Upgrade Laptop Cooling Pad, KeiBn RGB Lights Laptop Cooler 6 Fans for 15.6-17.3 Inch Laptops, 7 Height Stands, 10 Modes Light, 2 USB Ports, Desk or Lap Use (A8,Blue)    ",
+    "category": "Computers",
+    "subcategory": "Computers & Accessories"
+  },
+  {
+    "name": "HP 15.6 Full HD Non-Touch Laptop Computer",
+    "price": "$549",
+    "image": "https://m.media-amazon.com/images/I/71WygskKKOL._AC_SX679_.jpg",
+    "description": "Newest 2021 HP 15.6 Full HD Non-Touch Laptop Computer, Intel 11th Gen Core i3-1115G4(Up to 4.1GHz), 16GB RAM, 512GB SSD, Intel UHD Graphics, Fingerprint Webcam, HDMI, WiFi, with ES 32GB Accessories    ",
+    "category": "Computers",
+    "subcategory": "Computers & Accessories"
+  },
+  {
+    "name": "Qnex Laptop Bed Tray Table",
+    "price": "$39.50",
+    "image": "https://m.media-amazon.com/images/I/71UJG5zBXEL._AC_SY450_.jpg",
+    "description": "Qnex Laptop Bed Tray Table - Height Adjustable Computer Stand for Bedroom, Living Room - Portable Remote & Home Working Accessories - Fits 13.3-17-Inch Tablets & Notebooks - Black, 20.8x11.8x12.5",
+    "category": "Computers",
+    "subcategory": "Computers & Accessories"
+  },
+  {
+    "name": "Seagate IronWolf Pro 16TB NAS",
+    "price": "$321.99",
+    "image": "https://m.media-amazon.com/images/I/81COXAdmKcL._AC_SY450_.jpg",
+    "description": "Seagate IronWolf Pro 16TB NAS Internal Hard Drive HDD CMR 3.5 Inch SATA 6GB/S 7200 RPM 256MB Cache for Raid Network Attached Storage, Data Recovery Rescue Service (ST16000NE000)",
+    "category": "Computers",
+    "subcategory": "Computer Components"
+  },
+  {
+    "name": "SK hynix Gold P31 2TB",
+    "price": "$198.99",
+    "image": "https://m.media-amazon.com/images/I/71u-Ggd7jzL._AC_SY450_.jpg",
+    "description": "SK hynix Gold P31 2TB PCIe NVMe Gen3 M.2 2280 Internal SSD l Up to 3500MB/S l Compact M.2 SSD Form Factor SK hynix SSD - Internal Solid State Drive with 128-Layer NAND Flash    ",
+    "category": "Computers",
+    "subcategory": "Computer Components"
+  },
+  {
+    "name": "Intel Core i9-10900K",
+    "price": "$389.88",
+    "image": "https://m.media-amazon.com/images/I/81COXAdmKcL._AC_SY450_.jpg",
+    "description": "Intel Core i9-10900K",
+    "category": "Computers",
+    "subcategory": "Computer Components"
+  },
+  {
+    "name": "USB C Thumb Drive 1TB",
+    "price": "$37.97",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51-W3jXQOvL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "USB C Thumb Drive 1TB USB 3.1 Flash Drive Photo Stick USB Drive 1TB Memory Stick Data Storage WANSISEN for MacBook Pro Android Phone Computers and Tablets Silver 1TB LX    ",
+    "category": "Computers",
+    "subcategory": "Data Storage"
+  },
+  {
+    "name": "Seagate Portable 2TB External Hard Drive",
+    "price": "$61.99",
+    "image": "https://m.media-amazon.com/images/I/81tjLksKixL._AC_SY450_.jpg",
+    "description": "Seagate Portable 2TB External Hard Drive Portable HDD USB 3.0 for PC, Mac, PlayStation, & Xbox - 1-Year Rescue Service (STGX2000400)    ",
+    "category": "Computers",
+    "subcategory": "Data Storage"
+  },  
+  {
+    "name": "WD 4TB Elements Portable External Hard Drive",
+    "price": "$94.99",
+    "image": "https://m.media-amazon.com/images/I/71VB--jaeSL._AC_SY450_.jpg",
+    "description": "WD 4TB Elements Portable External Hard Drive HDD, USB 3.0, Compatible with PC, Mac, PS4 & Xbox - WDBU6Y0040BBK-WESN",
+    "category": "Computers",
+    "subcategory": "Data Storage"
+  },
+  {
+    "name": "T10 External Sound Card",
+    "price": "$24.99",
+    "image": "https://m.media-amazon.com/images/I/61nLrOctSWL._SX466_.jpg",
+    "description": "T10 External Sound Card, PHOINIKAS USB Audio Adapter for PC Windows, Mac, Linux, Laptops, Desktops, Stereo Sound Card with 3.5mm Interface & USB Interface, Volume Control, Plug & Play (6-in-1, Black)",
+    "category": "Computers",
+    "subcategory": "External Components"
+  },
+  {
+    "name": "External CD DVD Drive, Blingco",
+    "price": "$14.99",
+    "image": "https://m.media-amazon.com/images/I/61y6oo5H5HL._AC_SY450_.jpg",
+    "description": "External CD DVD Drive, Blingco USB 2.0 Slim Protable External CD-RW Drive DVD-RW Burner Writer Player for Laptop Notebook PC Desktop Computer, Black",
+    "category": "Computers",
+    "subcategory": "External Components"
+  },
+  {
+    "name": "External DVD Drive, USB 3.0 Type-C DVD Player",
+    "price": "$26.99",
+    "image": "https://m.media-amazon.com/images/I/71A8t2j0bxS._AC_SY450_.jpg",
+    "description": "External DVD Drive, USB 3.0 Type-C DVD Player with 4 USB Ports and SD Readers for Laptop, Portable Disk Drive CD ROM Writer Burner Compatible with Laptop Desktop PC Windows MacBook Mac Linux Mac OS",
+    "category": "Computers",
+    "subcategory": "External Components"
+  },
+  {
+    "name": "Westinghouse 32 FHD",
+    "price": "$249.99",
+    "image": "https://m.media-amazon.com/images/I/71jgYEusJUL._AC_SY450_.jpg",
+    "description": "Westinghouse 32 FHD 144HZ Curved FreeSync Gaming Monitor    ",
+    "category": "Computers",
+    "subcategory": "Monitors"
+  },
+  {
+    "name": "Acer SB220Q bi 21.5 Inches Full HD",
+    "price": "$109.99",
+    "image": "https://m.media-amazon.com/images/I/81QpkIctqPL._AC_SY450_.jpg",
+    "description": "Acer SB220Q bi 21.5 Inches Full HD (1920 x 1080) IPS Ultra-Thin Zero Frame Monitor (HDMI & VGA Port), Black    ",
+    "category": "Computers",
+    "subcategory": "Monitors"
+  },
+  {
+    "name": "ViewSonic ID1330 13.3 Inch",
+    "price": "$349.99",
+    "image": "https://m.media-amazon.com/images/I/51Z8EhgZKAL._AC_SY450_.jpg",
+    "description": "ViewSonic ID1330 13.3 Inch Portable 1080p Drawing Pen Display Tablet with Battery Free Stylus Pen for Digital Writing, Graphic Design, Remote Teaching, Distance Learning Supports Windows, Mac, Android",
+    "category": "Computers",
+    "subcategory": "Monitors"
+  },
+  {
+    "name": "Pantum M6552NW",
+    "price": "$165.99",
+    "image": "https://m.media-amazon.com/images/I/61oJiS5gWtL._AC_SY450_.jpg",
+    "description": "Pantum M6552NW All in One Laser Printer Scanner Copier Wireless Monochrome Black and White Printer Home Office - Print Copy Scan, Speed Up to 23 ppm, 50-Sheet ADF, 150 Large Paper Capacity    ",
+    "category": "Computers",
+    "subcategory": "Printers"
+  },
+  {
+    "name": "Kyocera ECOSYS P2040dw",
+    "price": "$447.99",
+    "image": "https://m.media-amazon.com/images/I/61UOHJqUTCL._AC_SX679_.jpg",
+    "description": "Kyocera ECOSYS P2040dw Monochrome Network Laser Printer, 42 ppm, Up to Fine 1200 dpi, Standard Duplex, Gigabit Ethernet, USB, Wireless & Wi-Fi Direct, Mobile Print, 256 MB Memory, 2 Line LCD Screen    ",
+    "category": "Computers",
+    "subcategory": "Printers"
+  },
+  {
+    "name": "HP DeskJet 2755e ",
+    "price": "$84.99",
+    "image": "https://m.media-amazon.com/images/I/61UdeL7aO-L._AC_SY450_.jpg",
+    "description": "HP DeskJet 2755e Wireless Color All-in-One Printer with bonus 6 months Instant Ink with HP+ (26K67A)    ",
+    "category": "Computers",
+    "subcategory": "Printers"
+  },
+  {
+    "name": "Razer Blade Charger 230W",
+    "price": "$113.99",
+    "image": "https://m.media-amazon.com/images/I/61D9mQ4ZOUL._AC_SL1500_.jpg",
+    "description": "Razer Blade Charger 230W Compatible with Razer Blade 15, Razer Blade Pro 17 4K RC30-0248 GTX1060 GTX1070 RTX2070 RTX2080 (2014-2021) Laptop Power AC Adapter Supply Cord (UL Listed 19.5V 11.8A)    ",
+    "category": "Computers",
+    "subcategory": "Laptop Accessories"
+  },
+  {
+    "name": "Besign LS10 Aluminum Laptop Stand",
+    "price": "$22.99",
+    "image": "https://m.media-amazon.com/images/I/610oCNdtVyL._AC_SY450_.jpg",
+    "description": "Besign LS10 Aluminum Laptop Stand, Ergonomic Adjustable Notebook Stand, Riser Holder Computer Stand Compatible with Air, Pro, Dell, HP, Lenovo More 10-15.6 Laptops, Black",
+    "category": "Computers",
+    "subcategory": "Laptop Accessories"
+  },
+  {
+    "name": "Laptop Camera Cover Slide Cute",
+    "price": "$6.99",
+    "image": "https://m.media-amazon.com/images/I/613W2SDXfWL._AC_SX679_.jpg",
+    "description": "Laptop Camera Cover Slide Cute, Webcam Cover Cute 6 Pack 0.027in Ultra Thin Camera Blocker Protect Privacy Sliding Design for Computer/Laptop/Desktop/PC/iMac/MacBook Pro/Mac Mini/Smartphone",
+    "category": "Computers",
+    "subcategory": "Laptop Accessories"
+  }  
 ]
