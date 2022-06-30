@@ -82,11 +82,6 @@ function navbar() {
             <a class="nav-link">Login /Sign Up</a>
           </li>
         </ul>
-
-
-        <!-- <a href="" class="mx-3">Sale</a>
-                <a href="">Contact</a>
-                 <a href="" class="ms-2">Login /Sign Up</a> -->
       </div>
     </div>
   </nav>
