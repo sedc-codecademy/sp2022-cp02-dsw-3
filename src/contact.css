@@ -1,0 +1,74 @@
+/* Form CSS decoration */
+.form-row {
+    width: 100%;
+}
+
+#message {
+    line-height: 200px;
+}
+
+#contactForm * {
+    padding: 3px;
+}
+
+#contactForm {
+    width: 60%;
+    margin-left: 3%;
+}
+/* 
+#buttonSendMessage {
+    margin-left: 8px;
+} */
+
+h1 {
+    margin-left:8px;
+}
+
+
+/* Card CSS decoration */
+.info1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-weight: bold;
+    font-size: 0.9em;
+    color: #555555;
+
+    width: 300px;
+    height: 70px;
+
+    margin-bottom: 30px;
+}
+
+
+.info:hover {
+    box-shadow: 0 8px 12px 10px rgba(121, 204, 229, 0.63);
+    background-color: #ebebeb;
+    overflow: hidden;
+    
+    width: 300px;
+    height: 70px;
+
+    margin-bottom: 30px;
+}
+
+.info>p {
+    text-align: center;
+    align-items: center;
+    padding: 2px;
+}
+
+#contactInfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 3.5%;
+    margin-bottom: 1.5%;
+
+}
+
+/* CSS for location positioning */
+#location {
+    margin: 20px;
+    text-align: center;
+}
