@@ -15,7 +15,7 @@
   transition: .2s linear;
 }
 
-.btn{
+/* .btn{
   margin-top: 1rem;
   display: inline-block;
   padding:.9rem 3rem;
@@ -23,7 +23,7 @@
   color:#fff;
   background: var(--main-color);
   cursor: pointer;
-}
+} */
 
 .btn:hover{
   letter-spacing: .2rem;

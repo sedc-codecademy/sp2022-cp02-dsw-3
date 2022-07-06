@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style1.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link rel="stylesheet" href="contact.css">
+    <title>Document</title>
+
+</head>
+
+<body>
+
+    <div class="container-fluid mb-5">
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+                  <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-mdb-toggle="collapse"
+                    data-mdb-target="#navbarTogglerDemo01"
+                    aria-controls="navbarTogglerDemo01"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation"
+                  >
+                    <i class="fas fa-bars"></i>
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+                    <a class="navbar-brand" href="./index1.html">Logo</a>
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    </ul>
+                    <form class="d-flex input-group w-auto">
+                      <input
+                        type="search"
+                        class="form-control"
+                        placeholder="Type query"
+                        aria-label="Search"
+                      />
+                      <button
+                        class="btn btn-outline-primary"
+                        type="button"
+                        data-mdb-ripple-color="dark"
+                      >
+                        Search
+                      </button>
+         
+                    </form>
+
+                    <ul class="navbar-nav  mb-2 mb-lg-0">
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Categories</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Sale</a>
+                          </li>
+                          <li class="nav-item py-2 mx-1">
+                            <i class="fa-solid fa-cart-shopping"></i>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#">Make an order</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Contact</a>
+                        </li>
+
+                        <li class="nav-item">
+                          <a class="nav-link"
+                            >Login /Sign Up</a
+                          >
+                        </li>
+                      </ul>
+
+
+                    <!-- <a href="" class="mx-3">Sale</a>
+                    <a href="">Contact</a>
+                     <a href="" class="ms-2">Login /Sign Up</a> -->
+                  </div>
+                </div>
+              </nav>
+        </header>
+        <main id="main-container">
+        </main>
+        <footer>
+
+        </footer>
+    </div>
+
+    <h1 class="ps-5">
+        Contact us
+    </h1>
+
+    <div id="contactInfo">
+        <!-- form for contact -->
+        <form id="contactForm">
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputEmail4">Email:</label>
+                    <input type="email" class="form-control" id="inputEmail4" placeholder="Your email address">
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputCity">Message:</label>
+                    <input type="text" class="form-control" id="message" placeholder="Write your message">
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary" id="buttonSendMessage">Send message</button>
+        </form>
+
+        <div id="contactCards">
+            <div><h4 id="companyInfo">Company information:</h4></div>
+            <div class="info"><p id="address" class="info1">Address: 11th October St., Skopje 1000</p></div>
+            <div class="info"><p id="no" class="info1">Number for contact: (+389)70 326 985, (02) 000 000 000</p></div>
+            <div class="info"><p id="mail" class="info1">E-mail: <a href="mailto: dropshippingapp@yahoo.com">dropshippingapp@yahoo.com</a></p></div>
+            <div class="info"><p id="cont" class="info1">Country: Macedonia</p></div>     
+        </div>
+    </div>
+
+    <div id="location">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d741.3035189392568!2d21.431145829227592!3d41.995680998700784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7290bf3e7d768c4a!2zNDHCsDU5JzQ0LjUiTiAyMcKwMjUnNTQuMSJF!5e0!3m2!1sen!2smk!4v1656657712423!5m2!1sen!2smk" width="95%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
+    <script src="./app1.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
