@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+     <!-- font awesome cdn link  -->
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
+
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js">
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+
+ <!-- custom css file link  -->
+ <link rel="stylesheet" href="cart-link-too.css">
+
+</head>
+<body>
+    <!-- cart page -->
+    
+<section id="shopping-cart" class="pt-5 mt-5 container">
+      <h2 class="font-weight-bold pt-5">Shopping cart</h2>
+      <hr>
+    </section>
+
+    <section id="cart-container" class="container my-5">
+      <table width="100%">
+        <thead>
+          <tr>
+            <td>delete</td>
+            <td>images</td>
+            <td>product</td>
+            <td>price</td>
+            <td>quantity</td>
+            <td>total</td>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td><a href="#"><i class="trash-alt"></i></a></td>
+            <td><img src="#" alt="" /></td>
+            <td>
+                <lable class="name-name">
+                    <h5>ITEM 1</h5>  
+                  </lable>
+                  
+            </td>
+            <td>
+              <h5>$65</h5>
+            </td>
+            <td><input class="w-25 pl-1" value="1"type="number"></td>
+            <td>
+              <h5>$130.00</h5>
+            </td>
+          </tr>
+
+          <tr>
+            <td><a href="#"><i class="trash-alt"></i></a></td>
+            <td><img src="#" alt="" /></td>
+            <td>
+                <lable class="name-name">
+                    <h5>ITEM 2</h5>  
+                  </lable>
+                  
+            </td>
+            <td>
+              <h5>$65</h5>
+            </td>
+            <td><input class="w-25 pl-1" value="1"type="number"></td>
+            <td>
+              <h5>$130.00</h5>
+            </td>
+          </tr>
+
+          <tr>
+            <td><a href="#"><i class="trash-alt"></i></a></td>
+            <td><img src="#" alt="" /></td>
+            <td>
+                <lable class="name-name">
+                  <h5>ITEM 3</h5>  
+                </lable>
+                
+            </td>
+            <td>
+              <h5>$65</h5>
+            </td>
+            <td><input class="w-25 pl-1" value="1"type="number"></td>
+            <td>
+              <h5>$130.00</h5>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </section> -->
+
+    <section id="cart-bottom" class="container">
+        <div class="row">
+          <div class="coupon col-lg-6 col-mg-6 col-12 mb-4">
+            <div>
+              <h5>COUPON</h5>
+              <p>Enter your coupon if you have one</p>
+              <input type="text" placeholder="coupon Code">
+              <button> APPLY COUPON</button>
+            </div>
+          </div>
+          <div class="total col-lg-6 col-mg-6 col-12 mb-4">
+            <div>
+              <h5>CART TOTAL</h5>
+              <div class="d-flex justify-content-between">
+                  <h6> Subtotal</h6>
+                  <p>$215.00</p>
+              </div>
+              <div class="d-flex justify-content-between">
+                  <h6> Shipping</h6>
+                  <p>$255.00</p>
+              </div>
+              <hr class="second-hr">
+              <div class="d-flex justify-content-between">
+                  <h6> Total</h6>
+                  <p>$470.00</p>
+              </div>
+              <a href="cart-checkout.html" class="btn btn-primary">
+                PROCEED TO CHECKOUT
+            </a>
+              <!-- <button class="ml-auto">PROCEED TO CHECKOUT</button> -->
+            </div>
+          </div>
+        </div>
+    </section>
+    
+
+    <!-- <a href="MAIN.html" class="btn">RETURN TO HOME PAGE</a> -->
+    <!-- <a href="information.html" class="btn">PROCEED TO CHECKOUT</a> -->
+
+    <script src="app1.js"></script>
+</body>
+</html>
