@@ -65,6 +65,7 @@ function displayCards(array) {
     const btnInfoSecondary = document.createElement("a");
     btnInfoSecondary.className = "btn btn-outline-secondary btn-sm btn-50";
     btnInfoSecondary.innerText = "Details";
+    btnInfoSecondary.href = '/pages/product/product.html'
 
     const btnAddSecondary = document.createElement("a");
     btnAddSecondary.className = "btn btn-outline-secondary btn-sm btn-50";
