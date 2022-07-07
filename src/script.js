@@ -75,7 +75,7 @@ function navbar() {
             <a class="nav-link" href="#">Make an order</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"  href="./pages/contact/contact.html">Contact</a>
+            <a class="nav-link"  href="../pages/contact/contact.html">Contact</a>
           </li>
 
           <li class="nav-item">
